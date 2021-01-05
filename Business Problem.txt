@@ -1,0 +1,7 @@
+In this project, we will try to find an optimal location for a restaurant. 
+Specifically, this report will be targeted to stakeholders interested in opening a South Indian in New Delhi, India.
+Since there are lots of restaurants in New Delhi we will try to detect locations that are not already crowded with restaurants. 
+We are also particularly interested in areas with no South Indian in the vicinity. 
+We would also prefer locations as close to the city center as possible, assuming that the first two conditions are met.
+We will use our data science powers to generate a few most promising neighborhoods based on these criteria. 
+The Advantages of each area will then be clearly expressed so that the best possible final location can be chosen by stakeholders.

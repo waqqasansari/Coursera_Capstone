@@ -1,0 +1,8 @@
+Based on the definition of our problem, the factors that will influence our decision are:
+number of existing restaurants in the neighborhood (any type of restaurant)
+number of and distance to South Indian restaurants in the neighborhood, if any
+The distance of the neighborhood from the city center
+We decided to use regularly spaced grid of locations, centered around city center, to define our neighborhoods.
+For this project, we will use Kaggle Zomato dataset(https://https://www.kaggle.com/shrutimehta/zomato-restaurants-data). 
+This data set contains the required information. And we will use this data set to explore various locality of new Delhi city.
+number of restaurants and their type and location in every neighborhood will be obtained using Foursquare API
